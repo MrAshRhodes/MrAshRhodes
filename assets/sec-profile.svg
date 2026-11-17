@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img" aria-labelledby="t">
+  <title id="t">01 // PROFILE</title>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#46F0A0" stroke-opacity=".06"/></pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity=".35"/></pattern>
+    <filter id="glow" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+
+    <style>
+      .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace} .dim{fill:#2FA36E} .pri{fill:#46F0A0} .hi{fill:#D8FFE9} .soft{fill:#8FD9B4}
+      .cursor{animation:cursor 1s steps(1) infinite}
+      .status{animation:blink 1.6s ease-in-out infinite}
+      @keyframes cursor{50%{fill-opacity:0}}
+      @keyframes blink{50%{opacity:.15}}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+  </defs>
+  <rect width="1200" height="84" fill="#050B08"/>
+  <rect width="1200" height="84" fill="url(#grid)"/>
+  <path d="M16 30V14H32M1168 14H1184V30M1184 52V68H1168M32 68H16V52" fill="none" stroke="#46F0A0" stroke-width="2"/>
+  <rect x="40.5" y="20.5" width="62" height="40" fill="#0A1610" stroke="#46F0A0"/>
+  <text x="71.5" y="50" text-anchor="middle" class="m pri" font-size="26" font-weight="700" filter="url(#glow)">01</text>
+  <text x="126" y="51" class="m hi" font-size="28" font-weight="700" letter-spacing="8" filter="url(#glow)">PROFILE<tspan dx="10" class="pri cursor">&#x2588;</tspan></text>
+  <text x="1160" y="46" text-anchor="end" class="m dim" font-size="12" letter-spacing="3">DOSSIER</text>
+  <path d="M16 78H1184" stroke="#1F6B4A" stroke-dasharray="2 6"/>
+  <rect x="16" y="77" width="120" height="2" fill="#46F0A0"/>
+  <rect width="1200" height="84" fill="url(#scan)"/>
+</svg>

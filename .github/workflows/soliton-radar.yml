@@ -1,0 +1,41 @@
+name: Refresh Soliton radar
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/soliton.py
+      - scripts/test_soliton.py
+      - .github/workflows/soliton-radar.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: soliton-radar-output
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - name: Test radar generator
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - name: Generate contribution radar
+        run: python3 scripts/soliton.py dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+      - name: Publish radar
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="72" viewBox="0 0 400 72" role="img" aria-labelledby="t">
+  <title id="t">File 03: BARBACK</title>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#46F0A0" stroke-opacity=".06"/></pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity=".35"/></pattern>
+    <filter id="glow" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+
+    <style>
+      .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace} .dim{fill:#2FA36E} .pri{fill:#46F0A0} .hi{fill:#D8FFE9} .soft{fill:#8FD9B4}
+      .cursor{animation:cursor 1s steps(1) infinite}
+      .status{animation:blink 1.6s ease-in-out infinite}
+      @keyframes cursor{50%{fill-opacity:0}}
+      @keyframes blink{50%{opacity:.15}}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+  </defs>
+  <rect width="400" height="72" fill="#050B08"/>
+  <rect width="400" height="72" fill="url(#grid)"/>
+  <rect x="1.5" y="1.5" width="397" height="69" fill="none" stroke="#1F6B4A"/>
+  <path d="M1 16V1H16M384 1H399V16M399 56V71H384M16 71H1V56" fill="none" stroke="#46F0A0" stroke-width="2"/>
+  <text x="20" y="24" class="m dim" font-size="12" letter-spacing="3">FILE 03 // MENU BAR</text>
+  <text x="20" y="57" class="m hi" font-size="28" font-weight="700" letter-spacing="7" filter="url(#glow)">BARBACK</text>
+  <circle class="status" cx="372" cy="22" r="4" fill="#46F0A0"/>
+  <rect width="400" height="72" fill="url(#scan)"/>
+</svg>

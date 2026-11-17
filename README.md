@@ -8,7 +8,7 @@
 
 </div>
 
-## `01` // PROFILE
+<img src="assets/sec-profile.svg" alt="01 // PROFILE" width="100%" />
 
 ```text
 NAME ........... Ash Rhodes
@@ -22,29 +22,29 @@ I'm not a software engineer by trade. I just like building with AI, and I build 
 
 Everything below started the same way: I wanted it, it didn't exist the way I wanted, so I built it.
 
-## `02` // FIELD KIT
+<img src="assets/sec-field-kit.svg" alt="02 // FIELD KIT" width="100%" />
 
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://github.com/MrAshRhodes/glint"><img src="assets/file-glint.svg" alt="File 01: Glint" width="100%" /></a>
       <a href="https://mrashrhodes.github.io/glint/"><img src="https://raw.githubusercontent.com/MrAshRhodes/glint/main/site/assets/og.jpg" alt="Glint rendering a styled screenshot from the command line" width="100%" /></a>
-      <h3><a href="https://github.com/MrAshRhodes/glint">GLINT</a></h3>
       <a href="https://github.com/MrAshRhodes/glint/releases/latest"><img src="https://img.shields.io/github/v/release/MrAshRhodes/glint?style=flat-square&label=LATEST&labelColor=050B08&color=1F6B4A" alt="Latest Glint release" /></a><br />
       Screenshot beautifier: capture, backgrounds, annotations, auto-redact and a CLI. Your images never leave your Mac.<br />
       <sub><code>Swift</code> <code>SwiftUI</code> <code>AppKit</code> <code>Sparkle</code></sub><br />
       <sub><a href="https://mrashrhodes.github.io/glint/">Site</a> · <a href="https://github.com/MrAshRhodes/glint/releases/latest">Download</a></sub>
     </td>
     <td width="33%" valign="top">
+      <a href="https://github.com/MrAshRhodes/whisker"><img src="assets/file-whisker.svg" alt="File 02: Whisker" width="100%" /></a>
       <a href="https://mrashrhodes.github.io/whisker/"><img src="https://raw.githubusercontent.com/MrAshRhodes/whisker/main/site/og.png" alt="Whisker: same mouse, new moves" width="100%" /></a>
-      <h3><a href="https://github.com/MrAshRhodes/whisker">WHISKER</a></h3>
       <a href="https://github.com/MrAshRhodes/whisker/releases/latest"><img src="https://img.shields.io/github/v/release/MrAshRhodes/whisker?style=flat-square&label=LATEST&labelColor=050B08&color=1F6B4A" alt="Latest Whisker release" /></a><br />
       Mouse and trackball customiser: button remapping, per-app profiles, pointer and scroll tuning, all from the menu bar.<br />
       <sub><code>Swift</code> <code>SwiftUI</code> <code>Event taps</code></sub><br />
       <sub><a href="https://mrashrhodes.github.io/whisker/">Site</a> · <a href="https://github.com/MrAshRhodes/whisker/releases/latest">Download</a></sub>
     </td>
     <td width="33%" valign="top">
+      <a href="https://github.com/MrAshRhodes/barback"><img src="assets/file-barback.svg" alt="File 03: Barback" width="100%" /></a>
       <a href="https://mrashrhodes.github.io/barback/"><img src="https://raw.githubusercontent.com/MrAshRhodes/barback/main/site/assets/og.png" alt="Barback: keep the menu bar clear" width="100%" /></a>
-      <h3><a href="https://github.com/MrAshRhodes/barback">BARBACK</a></h3>
       <a href="https://github.com/MrAshRhodes/barback/releases/latest"><img src="https://img.shields.io/github/v/release/MrAshRhodes/barback?style=flat-square&label=LATEST&labelColor=050B08&color=1F6B4A" alt="Latest Barback release" /></a><br />
       A fast, minimal menu bar icon hider. One chevron, one separator, no Screen Recording permission needed.<br />
       <sub><code>Swift</code> <code>SwiftUI</code> <code>AppKit</code></sub><br />
@@ -62,14 +62,11 @@ brew install --cask glint barback whisker
 
 Also in the field: **[mermaidtopng.com](https://www.mermaidtopng.com)**, a browser-local Mermaid to PNG, JPEG and SVG converter.
 
-## `03` // LOADOUT
+<img src="assets/sec-loadout.svg" alt="03 // LOADOUT" width="100%" />
 
-<img src="https://img.shields.io/badge/GitHub%20Copilot-050B08?style=for-the-badge&logo=githubcopilot&logoColor=46F0A0" alt="GitHub Copilot" />
-<img src="https://img.shields.io/badge/Claude%20Code-050B08?style=for-the-badge&logo=claude&logoColor=46F0A0" alt="Claude Code" />
+<img src="assets/equipment.svg" alt="Equipment: Swift, TypeScript, Python, Bash, React, Vite, Xcode, Git, GitHub Actions, Vercel, GitHub Copilot, Claude Code" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=swift,xcode,ts,react,vite,py,bash,githubactions,git,vercel&theme=dark" alt="Swift, Xcode, TypeScript, React, Vite, Python, Bash, GitHub Actions, Git, Vercel" />
-
-## `04` // PROTOCOL
+<img src="assets/sec-protocol.svg" alt="04 // PROTOCOL" width="100%" />
 
 - **Build what I'll use.** Every tool here fixes something that annoyed me. I'm user zero.
 - **AI writes, I direct.** I decide what each app should do, steer the agents and test everything on my own Mac.
@@ -77,29 +74,18 @@ Also in the field: **[mermaidtopng.com](https://www.mermaidtopng.com)**, a brows
 - **Privacy by default.** Local-first, no accounts, no telemetry.
 - **Honest docs.** My READMEs say what's verified and what isn't. Check Whisker's.
 
-## `05` // CURRENT MISSION
+<img src="assets/sec-mission.svg" alt="05 // MISSION" width="100%" />
 
 ```text
 [ACTIVE]  Building and using Glint, Whisker and Barback
+[SIGNAL]  The radar below refreshes every 12 hours
 ```
 
-## `06` // TELEMETRY
+<img src="assets/sec-telemetry.svg" alt="06 // TELEMETRY" width="100%" />
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/MrAshRhodes/MrAshRhodes/output/soliton-radar.svg" alt="Soliton radar: my GitHub contributions over the last 12 months, with streaks and recent activity" width="100%" />
 
-<img src="https://streak-stats.demolab.com/?user=MrAshRhodes&background=050B08&border=1F6B4A&stroke=1F6B4A&ring=46F0A0&fire=46F0A0&currStreakNum=D8FFE9&sideNums=D8FFE9&currStreakLabel=46F0A0&sideLabels=8FD9B4&dates=5E8C74&border_radius=0" alt="GitHub contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAshRhodes&bg_color=050B08&color=8FD9B4&title_color=46F0A0&line=46F0A0&point=D8FFE9&area=true&area_color=46F0A0&border_color=1F6B4A&radius=0&days=30&custom_title=SIGNAL%20LOG%20%2F%2F%20LAST%2030%20DAYS" alt="Contribution activity over the last 30 days" width="100%" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrAshRhodes/MrAshRhodes/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrAshRhodes/MrAshRhodes/output/github-snake.svg" />
-  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/MrAshRhodes/MrAshRhodes/output/github-snake.svg" />
-</picture>
-
-</div>
-
-## `07` // OPEN CHANNEL
+<img src="assets/sec-channel.svg" alt="07 // OPEN CHANNEL" width="100%" />
 
 The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/mrashrhodes/). If any of this looks useful, or you just want to talk about the tools, send a message.
 
