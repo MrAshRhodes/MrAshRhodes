@@ -1,97 +1,96 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,18,20&text=Ash%20Rhodes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20engineer%20%C2%B7%20native%20macOS%20apps%20%C2%B7%20open%20source&descSize=18&descAlignY=60&section=header" alt="Ash Rhodes, software engineer" width="100%" />
+<img src="assets/codec-header.svg" alt="Ash Rhodes. Builder of native macOS tools, built with AI. Open to remote work, Europe CET/CEST." width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=I+ship+native+macOS+apps+in+Swift;Notarised+releases%2C+CI%2C+Homebrew+and+auto-updates;Open+to+remote+roles+%C2%B7+Europe+CET" alt="I ship native macOS apps in Swift. Open to remote roles, Europe CET." />
-
-<br />
-
-<a href="https://www.linkedin.com/in/mrashrhodes/"><img src="https://img.shields.io/badge/LinkedIn-Ash%20Rhodes-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Open%20to-Remote%20roles-2ea44f?style=for-the-badge" alt="Open to remote roles" />
-<img src="https://img.shields.io/badge/Timezone-Europe%20CET-555?style=for-the-badge" alt="Timezone: Europe, CET" />
+<a href="https://www.linkedin.com/in/mrashrhodes/"><img src="https://img.shields.io/badge/COMMS-LINKEDIN-46F0A0?style=for-the-badge&labelColor=050B08" alt="Contact on LinkedIn" /></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20REMOTE%20WORK-46F0A0?style=for-the-badge&labelColor=050B08" alt="Status: open to remote work" />
+<img src="https://img.shields.io/badge/BASE-EUROPE%20CET%2FCEST-46F0A0?style=for-the-badge&labelColor=050B08" alt="Base: Europe, CET/CEST" />
 
 </div>
 
-## 👋 Hi, I'm Ash
+## `01` // PROFILE
 
-I'm a software engineer who likes finishing things. I build native macOS apps in Swift and web tools in TypeScript and React, and I don't stop at "it works on my machine": the CI, the release pipeline, the docs and the install story (Homebrew, auto-updates) are part of the job.
+```text
+NAME ........... Ash Rhodes
+CLASS .......... Builder, AI-assisted
+SPECIALTY ...... Native macOS utilities
+BASE ........... Europe · CET/CEST
+STATUS ......... Open to remote work
+```
 
-Most of what I build is open source, local-first and free of accounts and telemetry. These are the things I'm proudest of.
+I'm not a software engineer by trade. I just like building with AI, and I build apps I like and want to use.
 
-## 🚀 What I've shipped
+Everything below started the same way: I wanted it, it didn't exist the way I wanted, so I built it.
+
+## `02` // FIELD KIT
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <a href="https://mrashrhodes.github.io/glint/"><img src="https://raw.githubusercontent.com/MrAshRhodes/glint/main/site/assets/og.jpg" alt="Glint rendering a styled screenshot from the command line" width="100%" /></a>
-      <h3><a href="https://github.com/MrAshRhodes/glint">Glint</a></h3>
-      Screenshot beautifier: capture, backgrounds, annotations, auto-redact and a CLI. Your images are never uploaded. Notarised releases with Sparkle updates.<br />
-      <sub><b>Swift · SwiftUI · AppKit · Homebrew cask</b></sub><br />
+      <h3><a href="https://github.com/MrAshRhodes/glint">GLINT</a></h3>
+      <a href="https://github.com/MrAshRhodes/glint/releases/latest"><img src="https://img.shields.io/github/v/release/MrAshRhodes/glint?style=flat-square&label=LATEST&labelColor=050B08&color=1F6B4A" alt="Latest Glint release" /></a><br />
+      Screenshot beautifier: capture, backgrounds, annotations, auto-redact and a CLI. Your images never leave your Mac.<br />
+      <sub><code>Swift</code> <code>SwiftUI</code> <code>AppKit</code> <code>Sparkle</code></sub><br />
       <sub><a href="https://mrashrhodes.github.io/glint/">Site</a> · <a href="https://github.com/MrAshRhodes/glint/releases/latest">Download</a></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://mrashrhodes.github.io/whisker/"><img src="https://raw.githubusercontent.com/MrAshRhodes/whisker/main/site/og.png" alt="Whisker: same mouse, new moves" width="100%" /></a>
-      <h3><a href="https://github.com/MrAshRhodes/whisker">Whisker</a></h3>
-      Mouse and trackball customiser: button remapping, per-app profiles, pointer and scroll tuning, all from the menu bar. Notarised releases.<br />
-      <sub><b>Swift · SwiftUI · event taps · Homebrew cask</b></sub><br />
+      <h3><a href="https://github.com/MrAshRhodes/whisker">WHISKER</a></h3>
+      <a href="https://github.com/MrAshRhodes/whisker/releases/latest"><img src="https://img.shields.io/github/v/release/MrAshRhodes/whisker?style=flat-square&label=LATEST&labelColor=050B08&color=1F6B4A" alt="Latest Whisker release" /></a><br />
+      Mouse and trackball customiser: button remapping, per-app profiles, pointer and scroll tuning, all from the menu bar.<br />
+      <sub><code>Swift</code> <code>SwiftUI</code> <code>Event taps</code></sub><br />
       <sub><a href="https://mrashrhodes.github.io/whisker/">Site</a> · <a href="https://github.com/MrAshRhodes/whisker/releases/latest">Download</a></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://mrashrhodes.github.io/barback/"><img src="https://raw.githubusercontent.com/MrAshRhodes/barback/main/site/assets/og.png" alt="Barback: keep the menu bar clear" width="100%" /></a>
-      <h3><a href="https://github.com/MrAshRhodes/barback">Barback</a></h3>
-      A fast, minimal menu bar icon hider. One chevron, one separator, and no Screen Recording permission required. Notarised releases.<br />
-      <sub><b>Swift · SwiftUI · AppKit · Homebrew cask</b></sub><br />
+      <h3><a href="https://github.com/MrAshRhodes/barback">BARBACK</a></h3>
+      <a href="https://github.com/MrAshRhodes/barback/releases/latest"><img src="https://img.shields.io/github/v/release/MrAshRhodes/barback?style=flat-square&label=LATEST&labelColor=050B08&color=1F6B4A" alt="Latest Barback release" /></a><br />
+      A fast, minimal menu bar icon hider. One chevron, one separator, no Screen Recording permission needed.<br />
+      <sub><code>Swift</code> <code>SwiftUI</code> <code>AppKit</code></sub><br />
       <sub><a href="https://mrashrhodes.github.io/barback/">Site</a> · <a href="https://github.com/MrAshRhodes/barback/releases/latest">Download</a></sub>
     </td>
   </tr>
 </table>
+
+All three are open source, notarised by Apple, local-first, with no accounts and no telemetry.
 
 ```sh
 brew tap MrAshRhodes/tap
 brew install --cask glint barback whisker
 ```
 
-### Also built
+Also in the field: **[mermaidtopng.com](https://www.mermaidtopng.com)**, a browser-local Mermaid to PNG, JPEG and SVG converter.
 
-- **[Office Minions](https://github.com/MrAshRhodes/office-minions)**: a Rust terminal app that turns your running Claude Code agents into animated characters in an ASCII pixel-art office.
-- **[mermaidtopng.com](https://www.mermaidtopng.com)**: a browser-local Mermaid to PNG, JPEG and SVG converter. React 19, TypeScript and Vite.
-- **[TidyTabs](https://github.com/MrAshRhodes/tidytabs)**: a Manifest V3 Chrome extension that groups tabs by topic, recency or frequency, with bring-your-own-key LLM categorisation.
-- **[Suno Playlist Downloader (web)](https://github.com/MrAshRhodes/suno-playlist-downloader-web)**: a hosted web port of [DrummerSi's](https://github.com/DrummerSi/suno-downloader) desktop app, with credit to the original. 16 ⭐.
+## `03` // LOADOUT
 
-## 🧰 Toolbox
+<img src="https://img.shields.io/badge/GitHub%20Copilot-050B08?style=for-the-badge&logo=githubcopilot&logoColor=46F0A0" alt="GitHub Copilot" />
+<img src="https://img.shields.io/badge/Claude%20Code-050B08?style=for-the-badge&logo=claude&logoColor=46F0A0" alt="Claude Code" />
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=swift,xcode,ts,react,vite,py,bash,githubactions,git,vercel&theme=dark" alt="Swift, Xcode, TypeScript, React, Vite, Python, Bash, GitHub Actions, Git, Vercel" />
 
-<img src="https://skillicons.dev/icons?i=swift,xcode,ts,react,vite,py,rust,js,nodejs,bash,ruby,githubactions,git,vercel&perline=14" alt="Swift, Xcode, TypeScript, React, Vite, Python, Rust, JavaScript, Node.js, Bash, Ruby, GitHub Actions, Git, Vercel" />
+## `04` // PROTOCOL
 
-</div>
-
-## 🧭 How I work
-
-- **I ship the whole thing.** CI, tests, notarised releases, changelogs, docs and an install path, not just a repo.
+- **Build what I'll use.** Every tool here fixes something that annoyed me. I'm user zero.
+- **AI writes, I direct.** I decide what each app should do, steer the agents and test everything on my own Mac.
+- **Finish it properly.** Tests, signed releases, docs and a Homebrew install, so anyone else can try it too.
 - **Privacy by default.** Local-first, no accounts, no telemetry.
 - **Honest docs.** My READMEs say what's verified and what isn't. Check Whisker's.
-- **AI-assisted, human-accountable.** I work with AI coding agents every day and own the design, review and release decisions.
 
-## 🔭 Right now
+## `05` // CURRENT MISSION
 
-- 🔧 Maintaining **Glint**, **Whisker** and **Barback**, all released and actively updated.
-- 💼 **Looking for:** a remote engineering role. macOS and Swift, or product-minded full-stack with TypeScript and React.
+```text
+[ACTIVE]  Building and using Glint, Whisker and Barback
+[SEEKING] Remote work where building useful tools with AI is the job
+```
 
-## 📊 Activity
+## `06` // TELEMETRY
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MrAshRhodes&theme=github-dark&hide_border=true&border_radius=10" />
-  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=MrAshRhodes&theme=default&hide_border=true&border_radius=10" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrAshRhodes&theme=github_dark&hide_border=true" />
-  <img alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrAshRhodes&theme=default&hide_border=true" />
-</picture>
+<img src="https://streak-stats.demolab.com/?user=MrAshRhodes&background=050B08&border=1F6B4A&stroke=1F6B4A&ring=46F0A0&fire=46F0A0&currStreakNum=D8FFE9&sideNums=D8FFE9&currStreakLabel=46F0A0&sideLabels=8FD9B4&dates=5E8C74&border_radius=0" alt="GitHub contribution streak" />
 
-<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrAshRhodes&bg_color=050B08&color=8FD9B4&title_color=46F0A0&line=46F0A0&point=D8FFE9&area=true&area_color=46F0A0&border_color=1F6B4A&radius=0&days=30&custom_title=SIGNAL%20LOG%20%2F%2F%20LAST%2030%20DAYS" alt="Contribution activity over the last 30 days" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrAshRhodes/MrAshRhodes/output/github-snake-dark.svg" />
@@ -101,10 +100,8 @@ brew install --cask glint barback whisker
 
 </div>
 
-## 📫 Let's talk
+## `07` // OPEN CHANNEL
 
-The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/mrashrhodes/). If you're hiring for a remote role and any of the above looks like what you need, send me a message.
+The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/mrashrhodes/). If you're hiring remotely and any of this looks useful, send a message.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,18,20&section=footer" alt="" width="100%" />
-</div>
+<img src="assets/codec-footer.svg" alt="End of transmission." width="100%" />

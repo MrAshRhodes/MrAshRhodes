@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-labelledby="title">
+  <title id="title">End of transmission.</title>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#46F0A0" stroke-opacity=".06"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000" fill-opacity=".35"/>
+    </pattern>
+    <filter id="glow" x="-10%" y="-40%" width="120%" height="180%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,&quot;Liberation Mono&quot;,monospace}
+      .dim{fill:#2FA36E} .pri{fill:#46F0A0} .hi{fill:#D8FFE9} .soft{fill:#8FD9B4}
+    </style>
+  </defs>
+  <rect width="1200" height="72" fill="#050B08"/>
+  <rect width="1200" height="72" fill="url(#grid)"/>
+  <rect x="16.5" y="12.5" width="1167" height="47" fill="none" stroke="#1F6B4A"/>
+  <path d="M16 28V12H32M1168 12H1184V28M1184 44V60H1168M32 60H16V44" fill="none" stroke="#46F0A0" stroke-width="2"/>
+  <text x="44" y="41" class="m pri" font-size="13" letter-spacing="3">// END OF TRANSMISSION<tspan dx="8">&#x2588;<animate attributeName="fill-opacity" values="1;0;1" keyTimes="0;.5;1" calcMode="discrete" dur="1s" repeatCount="indefinite"/></tspan></text>
+  <text x="1156" y="41" text-anchor="end" class="m dim" font-size="13" letter-spacing="3">CODEC 140.85 · CHANNEL OPEN</text>
+  <rect width="1200" height="72" fill="url(#scan)"/>
+</svg>
