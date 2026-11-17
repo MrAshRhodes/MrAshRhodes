@@ -22,30 +22,21 @@ Most of what I build is open source, local-first and free of accounts and teleme
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://mrashrhodes.github.io/cairn/"><img src="https://raw.githubusercontent.com/MrAshRhodes/cairn/main/site/assets/cairn-home.png" alt="Cairn browser welcome screen with vertical tabs" width="100%" /></a>
-      <h3><a href="https://github.com/MrAshRhodes/cairn">Cairn</a></h3>
-      An experimental, local-first macOS browser: Spaces, vertical tabs, a command bar, split view and per-site tweaks. No account, no telemetry.<br />
-      <sub><b>Swift · Objective-C++ · Chromium (CEF) · developer preview</b></sub><br />
-      <sub><a href="https://mrashrhodes.github.io/cairn/">Site</a> · <a href="https://github.com/MrAshRhodes/cairn/releases/latest">Download</a></sub>
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://mrashrhodes.github.io/glint/"><img src="https://raw.githubusercontent.com/MrAshRhodes/glint/main/site/assets/og.jpg" alt="Glint rendering a styled screenshot from the command line" width="100%" /></a>
       <h3><a href="https://github.com/MrAshRhodes/glint">Glint</a></h3>
       Screenshot beautifier: capture, backgrounds, annotations, auto-redact and a CLI. Your images are never uploaded. Notarised releases with Sparkle updates.<br />
       <sub><b>Swift · SwiftUI · AppKit · Homebrew cask</b></sub><br />
       <sub><a href="https://mrashrhodes.github.io/glint/">Site</a> · <a href="https://github.com/MrAshRhodes/glint/releases/latest">Download</a></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://mrashrhodes.github.io/whisker/"><img src="https://raw.githubusercontent.com/MrAshRhodes/whisker/main/site/og.png" alt="Whisker: same mouse, new moves" width="100%" /></a>
       <h3><a href="https://github.com/MrAshRhodes/whisker">Whisker</a></h3>
       Mouse and trackball customiser: button remapping, per-app profiles, pointer and scroll tuning, all from the menu bar. Notarised releases.<br />
       <sub><b>Swift · SwiftUI · event taps · Homebrew cask</b></sub><br />
       <sub><a href="https://mrashrhodes.github.io/whisker/">Site</a> · <a href="https://github.com/MrAshRhodes/whisker/releases/latest">Download</a></sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://mrashrhodes.github.io/barback/"><img src="https://raw.githubusercontent.com/MrAshRhodes/barback/main/site/assets/og.png" alt="Barback: keep the menu bar clear" width="100%" /></a>
       <h3><a href="https://github.com/MrAshRhodes/barback">Barback</a></h3>
       A fast, minimal menu bar icon hider. One chevron, one separator, and no Screen Recording permission required. Notarised releases.<br />
@@ -84,7 +75,6 @@ brew install --cask glint barback whisker
 
 ## 🔭 Right now
 
-- 🧗 Building **Cairn**, a local-first browser with no account to sign in to.
 - 🔧 Maintaining **Glint**, **Whisker** and **Barback**, all released and actively updated.
 - 💼 **Looking for:** a remote engineering role. macOS and Swift, or product-minded full-stack with TypeScript and React.
 
