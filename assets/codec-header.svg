@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title">
-  <title id="title">Ash Rhodes. Builder of native macOS tools, built with AI. Open to remote work, Europe CET/CEST.</title>
+  <title id="title">Ash Rhodes. Builder of native macOS tools, built with AI. Europe CET/CEST.</title>
   <defs>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
       <path d="M24 0H0V24" fill="none" stroke="#46F0A0" stroke-opacity=".06"/>
@@ -46,7 +46,7 @@
   <text x="44" y="146" class="m hi" font-size="64" font-weight="700" letter-spacing="8" filter="url(#glow)">ASH RHODES</text>
   <text x="46" y="188" class="m pri" font-size="18" letter-spacing="3">BUILDER // NATIVE macOS TOOLS // BUILT WITH AI</text>
   <text x="46" y="236" class="m soft" font-size="16">&gt; MISSION: build apps I like and want to use<tspan dx="8" class="pri">&#x2588;<animate attributeName="fill-opacity" values="1;0;1" keyTimes="0;.5;1" calcMode="discrete" dur="1s" repeatCount="indefinite"/></tspan></text>
-  <text x="46" y="282" class="m dim" font-size="12" letter-spacing="2">CALLSIGN MRASHRHODES · BASE EUROPE CET/CEST · STATUS OPEN TO REMOTE WORK</text>
+  <text x="46" y="282" class="m dim" font-size="12" letter-spacing="2">CALLSIGN MRASHRHODES · BASE EUROPE CET/CEST · STATUS ACTIVE</text>
 
   <rect x="860.5" y="84.5" width="295" height="192" fill="#0A1610" fill-opacity=".85" stroke="#1F6B4A"/>
   <path d="M860 100V84H876M1140 84H1156V100M1156 260V276H1140M876 276H860V260" fill="none" stroke="#46F0A0" stroke-width="2"/>

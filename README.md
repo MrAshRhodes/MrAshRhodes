@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="assets/codec-header.svg" alt="Ash Rhodes. Builder of native macOS tools, built with AI. Open to remote work, Europe CET/CEST." width="100%" />
+<img src="assets/codec-header.svg" alt="Ash Rhodes. Builder of native macOS tools, built with AI. Europe CET/CEST." width="100%" />
 
 <a href="https://www.linkedin.com/in/mrashrhodes/"><img src="https://img.shields.io/badge/COMMS-LINKEDIN-46F0A0?style=for-the-badge&labelColor=050B08" alt="Contact on LinkedIn" /></a>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20REMOTE%20WORK-46F0A0?style=for-the-badge&labelColor=050B08" alt="Status: open to remote work" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-46F0A0?style=for-the-badge&labelColor=050B08" alt="Status: active" />
 <img src="https://img.shields.io/badge/BASE-EUROPE%20CET%2FCEST-46F0A0?style=for-the-badge&labelColor=050B08" alt="Base: Europe, CET/CEST" />
 
 </div>
@@ -15,7 +15,7 @@ NAME ........... Ash Rhodes
 CLASS .......... Builder, AI-assisted
 SPECIALTY ...... Native macOS utilities
 BASE ........... Europe · CET/CEST
-STATUS ......... Open to remote work
+STATUS ......... Active
 ```
 
 I'm not a software engineer by trade. I just like building with AI, and I build apps I like and want to use.
@@ -81,7 +81,6 @@ Also in the field: **[mermaidtopng.com](https://www.mermaidtopng.com)**, a brows
 
 ```text
 [ACTIVE]  Building and using Glint, Whisker and Barback
-[SEEKING] Remote work where building useful tools with AI is the job
 ```
 
 ## `06` // TELEMETRY
@@ -102,6 +101,6 @@ Also in the field: **[mermaidtopng.com](https://www.mermaidtopng.com)**, a brows
 
 ## `07` // OPEN CHANNEL
 
-The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/mrashrhodes/). If you're hiring remotely and any of this looks useful, send a message.
+The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/mrashrhodes/). If any of this looks useful, or you just want to talk about the tools, send a message.
 
 <img src="assets/codec-footer.svg" alt="End of transmission." width="100%" />
